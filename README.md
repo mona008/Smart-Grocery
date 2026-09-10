@@ -64,6 +64,7 @@ Smart Grocery helps users manage grocery items, pantry inventory, meal planning,
 
 ## 📁 Project Structure
 
+```text
 Smart-Grocery/
 │
 ├── assets/
@@ -87,6 +88,7 @@ Smart-Grocery/
 ├── profile.php
 ├── register.php
 └── shopping_list.php
+```
 
 ## 🗄️ Database
 
@@ -111,9 +113,11 @@ The database includes tables for:
 
 ### Database Files
 
+```text
 database/
 ├── schema.sql
 └── seed.sql
+```
 
 * `schema.sql` → Creates the database structure.
 * `seed.sql` → Inserts sample grocery items and prices.
@@ -128,5 +132,6 @@ database/
 * 📱 Mobile application
 * 🛒 Online grocery price comparison
 * ☁️ Cloud deployment
+
 > **Note:** AI-based features are planned for future versions and are not part of the current application.
 
